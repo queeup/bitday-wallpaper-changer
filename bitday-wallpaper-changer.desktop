@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=BitDay Wallpaper Changer
+Comment=Dynamically changing BitDay wallpapers throughout the day.
+Exec=sh -c "$HOME/.local/bin/bitday-wallpaper-changer.py &"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=1
